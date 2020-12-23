@@ -9,3 +9,23 @@ body{
     width: 70%;
     margin: 0 auto;
 }
+
+.encabezado{
+    color: white;
+    display: flex;
+    background-color: slateblue;
+}
+
+.encabezado-titulo{
+    padding: 5px;
+    font-style: bold;
+}
+
+.encabezado-lema{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    margin-left: 10px;
+}
